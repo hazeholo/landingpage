@@ -36,7 +36,7 @@ export default function Home() {
         /> */}
         <Image
           className='absolute -z-10 w-full max-h-screen'
-          src='/desktopLanding.svg'
+          src='/1920x1560.jpg'
           alt='desktopLanding'
           height={0}
           width={0}
@@ -44,7 +44,7 @@ export default function Home() {
         <Image
           className='absolute w-full block md:hidden -z-10'
           sizes='100vw'
-          src='/mobile.jpg'
+          src='/Mobile 480x1040.jpg'
           alt='mobileLanding'
           height={0}
           width={0}
