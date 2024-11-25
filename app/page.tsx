@@ -25,7 +25,7 @@ export default function Home() {
 
   return (
     <main className={myFont.className}>
-      <div className='flex justify-center'>
+      <div className='flex justify-center' onClick={() => window.open('https://holobet.com/?faff=121&sub=A101', '_blank')}>
         {/* <Image
           className='absolute -z-10 w-full max-h-screen'
           src={width > 500 ? '/desktopLanding.svg' : '/mobileLanding.svg'}
