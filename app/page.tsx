@@ -36,7 +36,7 @@ export default function Home() {
         /> */}
         <Image
           className='absolute -z-10 w-full max-h-screen'
-          src='/1920x1560.jpg'
+          src='/desktopLanding.svg'
           alt='desktopLanding'
           height={0}
           width={0}
