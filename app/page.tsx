@@ -44,7 +44,7 @@ export default function Home() {
         <Image
           className='absolute w-full block md:hidden -z-10'
           sizes='100vw'
-          src='/Mobile-480x1040.jpg'
+          src='/mobile.jpg'
           alt='mobileLanding'
           height={0}
           width={0}
